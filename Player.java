@@ -10,7 +10,7 @@ public class Player {
     public String direction;
     public int spriteNum =1;
 
-
+  
     /*public Rectangle solidArea;
     public int solidAreaDefaultX, solidAreaDefaultY;
     public boolean collisionOn = false;*/
